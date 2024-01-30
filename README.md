@@ -18,6 +18,6 @@
         - Possibility spaces
     - **CONSIDER**: _Generative vs. creative_
   
-**NOTE: Generative system**: A generative system is a process which has unpredictable outputs affected by randomness shaped by procedures. A generative software is a kind of generative system; herein lies the difference between software as such (which is technically generative, in the sense of generating outputs) and "generative" software.
+**NOTE: Generative system**: A generative system is a process which has unpredictable outputs affected by randomness shaped by procedures. A generative software is a kind of generative system; herein lies the difference between software as such (which is technically generative, in the sense of generating outputs) and "generative software".
 
 **NOTE: What is a possibility space and what is its purpose**: <br> Possibility space is a set of artefacts meeting a particular definition; they define a broader class or "genus" to which the generative spaces of existing or potential generative spaces belong. The purpose of defining a possibility space is to help compare, plan and hypothesise about generative systems.
