@@ -1,7 +1,7 @@
 # Computational creativity
 ## Conceptual map
 
-**CONSIDER AS YOU GO**: Fundamental differences between human and computational creativity.
+**CONSIDER AS YOU GO**: _Fundamental differences between human and computational creativity._
 
 - Paradigms in AI
     - Problem solving
