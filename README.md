@@ -9,8 +9,8 @@
     - Artefact generation (main paradigm in computational creativity)
     - **CONSIDER**: _How thinking of AI as more than a problem-solving tool extends AI's potential?_
 - Generative technology
-    - Data-driven
-    - Rule-based
+    - Data-driven (also called example-based or sub-symbolic)
+    - Rule-based (also called symbolic)
  - Thinking generatively
     - Output vs. generation
     - Generative software <br> _Technically, all software is generative, but "generative software has a special meaning_
