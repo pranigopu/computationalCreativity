@@ -76,7 +76,7 @@ _Further topics_...
     - `IG.appr.1`: Produce valuable images as if handcrafted
     - `IG.appr.2`: Produce novel art from perceived imagination
     - `IG.appr.3`: Simulate creative practices of visual artists
-- `IG.choices`: Choices to make for image generation <br> __
+- `IG.choices`: Choices to make for image generation
     - Computer as a tool vs. computer as an autonomous creator
     - Human's role (artist, creator, technician or audience?)
     - Rule-based (symbolic) vs. example-based (sub-symbolic)
