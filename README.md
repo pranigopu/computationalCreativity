@@ -94,11 +94,11 @@ _Working from_ `IG.appr.1`...
 
 _Working from_ `IG.appr.2`...
 
-- `IG.CFDG`: Context-free design grammar <br> _Grammar implies a rule-based generative system_
+- `IG.CFDG`: Context-free design grammar (symbolic method) <br> _Grammar implies a rule-based generative system_
     - Key elements for turning CFDG into a generative system
         - Probability of applying each rule at each step <br> **TIP**: _Consider a decision-tree for rule-application_
         - Associated transformation of each rule
-- `IG.NST`: Neural style transfer
+- `IG.NST`: Neural style transfer (sub-symbolic method) 
     - `IG.NST.prelim`: Preliminary concepts
         - Pastiche in image generation
         - Content & style in image generation
