@@ -46,6 +46,35 @@ _Further topics_...
         - `IG.appr.2`: Produce novel art from perceived imagination
         - `IG.appr.3`: Simulate creative practices of visual artists
 
+Now moving onto a more philosophical discussion on creative computation...
+
+- `Phil`: Philosophy of creative computation
+    - `Phil.CCApproach`: General approach to computational creativity
+        - `Phil.CCApproach.1`: Delegating creative responsibilities
+        - `Phil.CCApproach.2`: "Climbing the meta-mountain" <br> _i.e. achieving milestones of advancement in perceived creative behaviour_
+        - `Phil.CCApproach.3`: Getting feedback from stakeholders
+    - `Phil.Weak_vs_Strong`: Weak vs. strong computational creativity (CC)
+        - Weak: Focus on generating valuable artefacts
+        - Strong: Focus on emulating creative processes
+        - _Why & how much autonomy should a software be given in creative work?_
+    - `Phil.CMM`: "Climbing the meta-mountain" <br> _... extends_ `Phil.(CCApproach.2 + Weak_vs_Strong)` <br> _Essentially, moving from weak CC to strong CC_ <br> **CONCEPT CREDIT**: Simon Colton
+        - `Phil.CMM.level1`: Generative system
+        - `Phil.CMM.level2`: Appreciative system
+        - `Phil.CMM.level3`: Artistic system
+        - `Phil.CMM.level4`: Persuasive system
+        - `Phil.CMM.level5`: Inventive system
+        - `Phil.CMM.level6`: Authentic system
+        - `Phil.CMM.level7`: Philosophical system
+    - `Phil.Creativity`: _What is creativity?_
+        - Necessary behaviours for creativity <br> (_so we can know what is not creativity_)
+            - Skill, appreciation, inventiveness
+            - Intentionality
+            - Innovation
+            - Learning
+            - Reflection
+            - Accountability
+                - **CONSIDER**: _Randomness vs. accountable unpredictability_
+
 ### `GAN`: Generative adversarial network
 - `GAN.prelim`: Preliminary concepts
     - Convolutional neural network (CNN)
@@ -116,3 +145,59 @@ _Working from_ `IG.appr.2`...
                 - Loss calculation
                 - Choosing weight for content loss term
             - Total loss term (weighted sum of the above)
+
+### `Phil`: Philosophy of creative computation
+Now moving onto a more philosophical discussion on creative computation...
+
+- `Phil.CCApproach`: General approach to computational creativity
+    - `Phil.CCApproach.1`: Delegating creative responsibilities
+    - `Phil.CCApproach.2`: "Climbing the meta-mountain" <br> _i.e. achieving milestones of advancement in perceived creative behaviour_
+    - `Phil.CCApproach.3`: Getting feedback from stakeholders
+- `Phil.Weak_vs_Strong`: Weak vs. strong computational creativity (CC)
+    - Weak: Focus on generating valuable artefacts
+    - Strong: Focus on emulating creative processes
+    - _Why & how much autonomy should a software be given in creative work?_
+- `Phil.CMM`: "Climbing the meta-mountain" <br> _... extends_ `Phil.(CCApproach.2 + Weak_vs_Strong)` <br> _Essentially, moving from weak CC to strong CC_ <br> **CONCEPT CREDIT**: Simon Colton
+    - `Phil.CMM.level1`: Generative system
+    - `Phil.CMM.level2`: Appreciative system
+    - `Phil.CMM.level3`: Artistic system
+    - `Phil.CMM.level4`: Persuasive system
+    - `Phil.CMM.level5`: Inventive system
+    - `Phil.CMM.level6`: Authentic system
+    - `Phil.CMM.level7`: Philosophical system
+- `Phil.Creativity`: _What is creativity?_
+    - Necessary behaviours for creativity <br> (_so we can know what is not creativity_)
+        - Skill, appreciation, inventiveness
+        - Intentionality
+        - Innovation
+        - Learning
+        - Reflection
+        - Accountability
+            - **CONSIDER**: _Randomness vs. accountable unpredictability_
+
+**NOTE: Levels of the meta-mountain**: <br> Level $n$ subsumes the systems under $n + 1$, $n + 2$, etc. Hence, the higher the level, the more specific the subclass. The elaboration of each level is given below:
+
+- Generative system (GS)
+    - Generates artefacts
+- Appreciative system (ApS)
+    - GS that uses a predefined fitness test to evaluate & curate its results
+- Artistic system (ArS)
+    - ApS that can invent its own fitness test for aesthetic evaluation
+    - Can potentially affect the world artistically
+- Persuasive system (PeS)
+    - ArS that can explain its results & persuade for aesthetic quality
+- Inventive system (IS)
+    - PeS that can change its code
+    - Creativity is applied not only on output but also process
+    - Software's actions as interesting, important & unpredictable as its outputs
+- Authentic system (AuS)
+    - IS with instrinsic, reasonably-built motivation
+    - System begins to self-reflect, sef-determine & self-express
+    - Software is a fully independent & _believable_ creator
+- Philosophical system (PhS)
+    - AuS that can engage with philosophical discussions on creativity
+    - Can contribute on its own to philosophical notions of creativity
+
+**NOTE: Generative AI vs. creative AI vs. computational creativity**: <br> Generative AI is the use of DL adversarial networks to generate artefacts based on some dataset. Creative AI is AI used as a creativity-enhancing tool in creative work. Computational creativity refers to AI acting (to some extent) as an autonomous creative agent.
+
+**CONSIDER**: _Why study computational creativity at all?_
