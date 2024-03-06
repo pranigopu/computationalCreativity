@@ -19,3 +19,10 @@ Aims...
     - Novelty measured w.r.t. effect of style (i.e. how much the style has changed key elements of the output)
  
 To elaborate, to measure recognisability, we could measure the distance in melody and harmony between the input content and the output. To measure novelty, we could measure the change in timbre, the effect on the spectograms, similarity to the style or even human feedback.
+
+## References
+
+- https://cs230.stanford.edu/projects_spring_2021/reports/76.pdf
+- https://ashispati.github.io/style-transfer/
+- https://arxiv.org/pdf/1803.06841v2.pdf
+- https://link.springer.com/article/10.1007/s11760-023-02788-5
