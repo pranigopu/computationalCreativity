@@ -20,6 +20,15 @@ Aims...
  
 To elaborate, to measure recognisability, we could measure the distance in melody and harmony between the input content and the output. To measure stylistic impact, we could measure the change in timbre, the effect on the spectograms, similarity to the style or even human feedback.
 
+## Key concepts
+
+- Broader concept (genus) is image generation (we aim to use image generation architecture due to availability and some interoperability)
+- Style transfer is achieved inclusion of style loss between layers and content loss at the end
+- Multiple styles can be combined using:
+    - Composition of styles
+    - Sequential training (first with one style then with the other)
+    - Combined style loss
+
 ## References
 
 - https://cs230.stanford.edu/projects_spring_2021/reports/76.pdf
