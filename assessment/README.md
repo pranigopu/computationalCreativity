@@ -22,7 +22,7 @@ To elaborate, to measure recognisability, we could measure the distance in melod
 
 ## Key concepts
 
-- Broader concept is image generation (we aim to use image generation architecture due to availability + some interoperability)
+- Broader concept is image generation <br> **NOTE**: _We aim to use image generation architecture due to availability and some interoperability_
 - Style transfer is achieved inclusion of style loss between layers and content loss at the end
 - Multiple styles can be combined using:
     - Composition of styles
