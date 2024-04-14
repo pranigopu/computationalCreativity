@@ -1,6 +1,8 @@
 # Neural Style Transfer in Audio & Music
 
-For information about the assessment, click [here](https://github.com/pranigopu/computationalCreativity/blob/718e4c9949a1dab273d623ee36e7802d16617cd1/assessment/INFO.md).
+For assessment information, click [here](https://github.com/pranigopu/computationalCreativity/blob/718e4c9949a1dab273d623ee36e7802d16617cd1/assessment/INFO.md).
+
+---
 
 - **Project type**: Weak computational creativity (focus is on generating valuable artefacts)
 - **Focus**: Style transfer between audio data (music as content, audio or music as style)
