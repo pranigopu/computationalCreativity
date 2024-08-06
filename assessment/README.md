@@ -2,6 +2,8 @@
 
 For assessment information, click [here](https://github.com/pranigopu/computationalCreativity/blob/718e4c9949a1dab273d623ee36e7802d16617cd1/assessment/INFO.md).
 
+To go to the project's main repository, click [here](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer)
+
 ---
 
 - **Project type**: Weak computational creativity (focus is on generating valuable artefacts)
